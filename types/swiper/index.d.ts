@@ -1232,7 +1232,7 @@ export default class Swiper {
     /**
      * Index number of last clicked slide
      */
-    clickedIdex: number;
+    clickedIndex: number;
 
     /**
      * Link to last clicked slide (HTMLElement)
